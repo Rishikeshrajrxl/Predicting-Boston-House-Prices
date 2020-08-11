@@ -1,6 +1,6 @@
 # Predicting-Boston-House-Prices
-### Machine Learning using Python Online Project-based Course under the guidance of Skyfi Labs 
-### House Prices Prediction Challenge: Advanced Regression Techniques At Kaggle 
+#### 1)Machine Learning using Python Online Project-based Course under the guidance of Skyfi Labs 
+#### 2)House Prices Prediction Challenge: Advanced Regression Techniques At Kaggle 
 
 <hr>
 <h3>Context</h3>
