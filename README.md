@@ -1,5 +1,7 @@
 # Predicting-Boston-House-Prices
-Machine Learning using Python Online Project-based Course under the guidance of Skyfi Labs 
+### Machine Learning using Python Online Project-based Course under the guidance of Skyfi Labs 
+### House Prices Prediction Challenge: Advanced Regression Techniques At Kaggle 
+
 <hr>
 <h3>Context</h3>
 The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts.<br>
